@@ -2,7 +2,7 @@
 - 👀 I’m interested in devops.
 - 🌱 I’m currently learning github!
 - 💞️ I’m looking to collaborate on cool things.
-- 📫 How to reach me 
+- 📫 How to reach me - send me a taco!
 
 <!---
 wgolding/wgolding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
